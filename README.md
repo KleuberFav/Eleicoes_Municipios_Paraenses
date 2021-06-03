@@ -12,4 +12,8 @@
 - Possibilita um candidato se preparar melhor para a eleição;
 - Expõe quais grupos tem mais chance de serem eleitos
 
+## Conjunto de Dados
+  Conjunto de Dados com informações dos candidatos a vereador dos municípios do Pará nas eleições de 2020
+ 
+#### Fonte: https://www.tse.jus.br/
 
