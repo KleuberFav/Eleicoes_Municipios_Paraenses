@@ -7,7 +7,7 @@
 ## Intenção:
   Prever se o candidato a eleição será eleito ou não de acordo com algumas características, como idade, valor declarado na campanha, gênero, local de nascimento, entre outras.
 
-## aplicabilidade
+## Aplicabilidades:
 - Identificar quais características contribuem mais para a eleição de um candidato;
 - Possibilita um candidato se preparar melhor para a eleição;
 - Expõe quais grupos tem mais chance de serem eleitos
